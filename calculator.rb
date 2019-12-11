@@ -20,3 +20,4 @@
 # `quotient` for dividing the `first_number` and `second_number` variables.
 
 first_number = 25
+second_number = 3
